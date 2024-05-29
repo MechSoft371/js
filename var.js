@@ -1,24 +1,24 @@
-var name ='prudhvi'
+var name ='jeevan'
 {
-    let name='laxman'
+    let name='jollyreddy'
 
     {
 
         console.log(name)
     }
-    name ="peddi"
+    name ="pavan"
     console.log(name)
 
     
 
 }
- name="bhavani"
+ name="bharath"
 
 
 console.log(name)
 
-const surname = 'peddireddy'
+const surname = 'paddisamba'
 
-surname ="manchala"
+surname ="maneesh"
 
 console.log(surname)
