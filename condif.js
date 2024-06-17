@@ -31,3 +31,39 @@ switch("qA")
     default:
         console.log("no match is found")
 }
+
+//==========================================================================
+
+
+d = new Date().getDay()
+
+console.log(d)
+
+switch(d)
+{
+
+    case 0:
+        day ="Sunday";
+        break;
+
+    case 1:
+        day ="Monday";
+        break;
+    case 2:
+        day ="Tuesday";
+        break;
+    case 3:
+        day ="wednesday";
+        break;
+    case 4:
+        day ="thursday";
+        break;
+    case 5:
+        day ="Friday";
+        break;
+    case 6:
+        day ="Saturday";
+        break;
+}
+
+console.log(day)
