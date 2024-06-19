@@ -1,8 +1,5 @@
 var str = "This is javascript class"
 
-cha = str.charAt();
+var cha = str.split(' ');
 
-for(let i=cha.lenght-1 ; i>=0; i--){
-
-    console.log(i);
-}
+console.log("check this")
